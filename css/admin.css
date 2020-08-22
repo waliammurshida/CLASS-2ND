@@ -1,0 +1,49 @@
+*{margin: 0px;padding:0px}
+
+body{font-family:sans-serif;background-image: url(../img/bg.jpg);
+background-repeat: no-repeat;background-size: cover;}
+
+
+.regform{width: 800px;background-color: rgb(0,0,0,0.6);margin: 0px auto;
+
+	     color: #FFFF;padding: 10px 0px 10px 0px;text-align: center;border-radius: 15px 15px 0px 0px;}
+
+.regform img{
+    border: 2px solid;
+    width: 200px;
+    color: white;
+    height: 200px;
+    border-radius: 5px;
+    background: azure;
+    box-shadow: 1px 1px 10px;}
+ .main{background-color: rgb(0,0,0,0.5);width:800px;margin: auto;}
+
+
+ .regform h1{font-family: 'Noto Serif', serif;}
+ form{padding: 10px;}
+
+ .name{margin-left: 25px;margin-top: 30px;width: 125px; color: white;font-size:20px;font-weight:bold;font-family: 'Noto Serif', serif;}
+
+
+
+
+
+
+
+
+.password{position: relative;left: 209px;top: -30px;line-height: 40px;width:430px;
+	border-radius: 6px;padding: 0 22px;font-size: 16px;color: #555;}
+
+
+
+
+
+
+button{background-color: #3BAF9F;margin: 20px 0px 0px 20px;text-align: center;border-radius: 12px;border: 2px solid #366473;
+padding: 14px 110px;color: white;outline: none;cursor: pointer;transition: 0.25;display: block;margin: 0px auto;box-shadow: 0px 1px 5px;margin-top: 10px;}
+button:hover{background-color: #5390F5;}
+
+
+
+
+.register{padding:40px;background:#9ad6d645;color:white;font-weight: bolder;font-size:20px;text-align: center;line-height: 30px;}
